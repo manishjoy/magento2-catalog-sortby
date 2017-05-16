@@ -1,7 +1,7 @@
 # Advanced Catalog Sorting (TheCodingTutor_Sortby) v1.0.0
 ## Magento 2 Extension
 
-####This module helps the store admin to add two more catalog sorting options i.e. "Sorting by Popularity" and "Sorting by Rating". These are two most popular sorting options found on most of the stores now a days.
+#### This module helps the store admin to add two more catalog sorting options i.e. "Sorting by Popularity" and "Sorting by Rating". These are two most popular sorting options found on most of the stores now a days.
 
 ## Features:
 1. Easy to use
