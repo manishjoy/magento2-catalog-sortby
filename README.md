@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 More courses and tutorials about Magento 2 visit:
 
-http://thecodingtutor.com/category/magento/
+https://blog.manishjoy.com/magento-development-guide/
 
 ### The extension is free and always will be
 
@@ -58,4 +58,14 @@ ________________________________________________________________________________
 </table>
 
 ___________________________________________________________________________________________________
-### Feedback and Support <a href="mailto:support@thecodingtutor.com">support@thecodingtutor.com</a>
+## Feedback and Support
+
+ - <a href="https://www.manishjoy.com/">https://www.manishjoy.com</a>
+
+ - <a href="mailto:support@manishjoy.com">support@manishjoy.com</a>
+
+## Tutorials and Blogs
+
+ - <a href="https://blog.manishjoy.com/">https://blog.manishjoy.com</a>
+
+ - <a href="https://blog.manishjoy.com/magento-development-guide/">https://blog.manishjoy.com/magento-development-guide/</a>
